@@ -10,7 +10,7 @@ og_image: "Opensource.jpg"
 google_analytics: "UA-121636368-3"
 
 header:
-  pages: OpenSource
+  pages: 
     - name: Home
       slug: /
     - name: Work
@@ -19,9 +19,9 @@ header:
 footer:
   show_powered_by: true
   contact:
-    - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
+    - name: osh7313240
+      value: osh731324-@naver.com
+      link: mailto:osh731324-@naver.com
     - name: WeChat
       value: YourWeChatUsername
       link: "#"
