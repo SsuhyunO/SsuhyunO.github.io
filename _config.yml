@@ -10,7 +10,7 @@ og_image: "Opensource.jpg"
 google_analytics: "UA-121636368-3"
 
 header:
-  pages:
+  pages: OpenSource
     - name: Home
       slug: /
     - name: Work
